@@ -1,0 +1,561 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+8 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main
+6 -> -g
+7 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/Library.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$2.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$3.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$4.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$5.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$runBasicParquet$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$typecreator3$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$typecreator5$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$Person$.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$Person.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$2.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$3.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$4.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$5.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runDataSetCreation$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runDataSetCreation$2.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$2.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$3.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$4.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$5.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$6.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$typecreator2$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$typecreator3$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$typecreator5$1.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$People$.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$People.class
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles.class
+binary dependencies:
+13 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.0.1/24e444b12e93bf78758a8cc0293f814c01a03971/spark-core_2.11-2.0.1.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.0.1/24e444b12e93bf78758a8cc0293f814c01a03971/spark-core_2.11-2.0.1.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> /Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> /Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> Library
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$anonfun$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$anonfun$2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$anonfun$3
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$anonfun$4
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$anonfun$5
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$anonfun$runBasicParquet$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$typecreator3$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$$typecreator5$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$Person
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com.sudhir.spark.sql.WorkingWithDataSource$Person$
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$3
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$4
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$5
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runDataSetCreation$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runDataSetCreation$2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runInferSchema$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runInferSchema$2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runInferSchema$3
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runInferSchema$4
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runInferSchema$5
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$anonfun$runInferSchema$6
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$typecreator2$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$typecreator3$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$$typecreator5$1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$People
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com.sudhir.spark.sql.WorkingWithFiles$People$
+used names:
+301 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> $m
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> $m$untyped
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> $typecreator3
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> $typecreator5
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> $u
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> &&
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> *
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> +
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> ::
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> <init>
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> ==
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> AbstractFunction2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> AnyRef
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Array
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> ClassTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Format
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Int
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> List
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Long
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Mirror
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Nil
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> None
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Nothing
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Person
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Predef
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Product
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Properties
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Row
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> SaveMode
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> ScalaRunTime
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Serializable
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Singleton
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> SparkSession
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Statics
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> String
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> StringType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> StructType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> ThisType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Type
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> TypeCreator
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> TypeRef
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> TypeTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> U
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Unit
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> Universe
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> WorkingWithDataSource
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> _toString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> age
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> anyHash
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> apache
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> appName
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> apply
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> arrayClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> asInstanceOf
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> asModule
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> asType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> attr
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> attributes
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> builder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> canBuildFrom
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> collection
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> com
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> config
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> connectionProperties
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> createDataFrame
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> createDataset
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> createOrReplaceTempView
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> cubeDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> eq
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> fieldName
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> fields
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> finalizeHash
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> format
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> getClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> getClassLoader
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> getOrCreate
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> immutable
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> implicits
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> intWrapper
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> internal
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> isInstanceOf
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> java
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> jdbc
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> jdbcDFRetrive
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> jdbcDFRetrive1
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> jdbcDFRetrive2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> json
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> load
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> longHash
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> makeRDD
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> map
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> materializeClassTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> materializeTypeTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> mergedDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> mix
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> mode
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> moduleClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> name
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> namesDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> newProductEncoder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> newStringEncoder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> num
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> option
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> org
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> otherPeople
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> otherPeopleDataset
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> package
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> parquet
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> parquetDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> parquetFileDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> peopleDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> peopleRDD
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> printSchema
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> rddToDatasetHolder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> read
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> refArrayOps
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> reflect
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> reificationSupport
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> rowRDD
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> runJdbcDataSet
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> runtime
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> runtimeMirror
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> save
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> scala
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> schema
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> schemaString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> select
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> show
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> spark
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> sparkContext
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> sparkSession
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> split
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> sql
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> sqlDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> squareDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> staticClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> staticPackage
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> stop
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> sudhir
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> teenagerNamesDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> text
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> textFile
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> to
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> toDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> toJavaRDD
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> toString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> toTypeConstructor
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> trim
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> typedProductIterator
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> types
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> universe
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> usersDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> util
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> write
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> ||
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $m
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $m$untyped
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $typecreator2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $typecreator3
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $typecreator5
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> $u
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> &&
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> +
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> <init>
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> ==
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> >
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> AbstractFunction2
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Any
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> AnyRef
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Array
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> ClassTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Encoders
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> List
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Long
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Map
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Mirror
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> None
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Nothing
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> People
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Predef
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Product
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Row
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> ScalaRunTime
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Seq
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Serializable
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Singleton
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> SparkSession
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Statics
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> String
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> StringContext
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> StringType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> StructType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Type
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> TypeCreator
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> TypeTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> U
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Unit
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> Universe
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> WorkingWithFiles
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> _toString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> age
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> anyHash
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> apache
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> appName
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> apply
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> arrayClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> as
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> asInstanceOf
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> asType
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> attr
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> augmentString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> builder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> canBuildFrom
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> caseClassDS
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> collect
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> collection
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> com
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> config
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> count
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> createDataFrame
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> createOrReplaceTempView
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> df
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> eq
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> fieldName
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> fields
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> filter
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> finalizeHash
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> foreach
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> getAs
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> getClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> getClassLoader
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> getOrCreate
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> getValuesMap
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> groupBy
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> immutable
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> implicits
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> intArrayOps
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> isInstanceOf
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> json
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> kryo
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> localSeqToDatasetHolder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> longHash
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> map
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> mapEncoder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> materializeClassTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> materializeTypeTag
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> mix
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> name
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> newIntEncoder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> newProductEncoder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> newStringEncoder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> org
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> package
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> peopleDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> peopleDS
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> peopleRDD
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> primitiveDS
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> print
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> printSchema
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> println
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> rddToDatasetHolder
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> read
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> rec
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> refArrayOps
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> reflect
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> result
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> row
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> rowRDD
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> runProgrammingSchema
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> runtime
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> runtimeMirror
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> scala
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> schema
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> schemaString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> select
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> show
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> spark
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> sparkContext
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> sparkSession
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> split
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> sql
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> sqlDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> staticClass
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> stop
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> sudhir
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> teenAgersDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> teenager
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> textFile
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toDF
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toDS
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toInt
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toList
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toLong
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toString
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> toTypeConstructor
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> trim
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> typedProductIterator
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> types
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> universe
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> ||
+product stamps:
+33 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/Library.class -> lastModified(1488311996000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$1.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$2.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$3.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$4.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$5.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$anonfun$runBasicParquet$1.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$typecreator3$1.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$$typecreator5$1.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$Person$.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource$Person.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithDataSource.class -> lastModified(1488436252000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$1.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$2.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$3.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$4.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$5.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runDataSetCreation$1.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runDataSetCreation$2.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$1.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$2.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$3.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$4.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$5.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$anonfun$runInferSchema$6.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$typecreator2$1.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$typecreator3$1.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$$typecreator5$1.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$People$.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles$People.class -> lastModified(1488311995000)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/build/classes/main/com/sudhir/spark/sql/WorkingWithFiles.class -> lastModified(1488311995000)
+source stamps:
+3 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> hash(a4cb497fa5c0d770a12eab3d6ff77e50f2591759)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> hash(66dc621a9a1572a6845529f31a322af0cdeddef6)
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> hash(54e1dd9856726b5d79d8a39476a9469245ce55f9)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar -> lastModified(1488239121000)
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.0.1/24e444b12e93bf78758a8cc0293f814c01a03971/spark-core_2.11-2.0.1.jar -> lastModified(1484377639000)
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar -> lastModified(1488239119000)
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar -> lastModified(1484265482000)
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar -> lastModified(1484266029000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.0.1/6ec349826230a736defd5ac69b73a7a78f759f3/spark-catalyst_2.11-2.0.1.jar -> org.apache.spark.sql.types.StructType$
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.0.1/24e444b12e93bf78758a8cc0293f814c01a03971/spark-core_2.11-2.0.1.jar -> org.apache.spark.SparkContext
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.0.1/51e69073dc56582cb2037d299f7a51d823f69dc9/spark-sql_2.11-2.0.1.jar -> org.apache.spark.sql.DataFrameReader
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction2
+/Users/sudhir/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+3 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBMZEG4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAACnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLDRgQ50AAZub3RpZnlzcQB+AAzpZVXZdAAEd2FpdHNxAH4ADNcWvUV0AAZlcXVhbHNzcQB+AAxu+XSBdAARc29tZUxpYnJhcnlNZXRob2RzcQB+AAySDFaXdAAJbm90aWZ5QWxsc3EAfgAM2HmNXXQAB0xpYnJhcnlzcQB+AAxaofGKdAAGPGluaXQ+c3EAfgAMXlL7j3QACHRvU3RyaW5nc3EAfgAMY2QqF3QACGdldENsYXNzc3EAfgAMYKOOinQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AK3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AEMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ACtMAAlpbmhlcml0ZWRxAH4AK0wAB3BhcmVudHNxAH4AK3hxAH4ASnNxAH4AQwF1cQB+ACYAAAAAcHNxAH4AQwF1cQB+ACYAAAAAcHNxAH4AQwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AEl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AElzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AGJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGNwcHNxAH4AKHEAfgA1cQB+ADdxAH4AOXEAfgAZcQB+ADt+cQB+ADx0AAZNb2R1bGV1cQB+AEAAAAAAc3EAfgBDAXEAfgBLcHNxAH4AQwFzcQB+AE1zcQB+AEMBdXEAfgAmAAAAAHBzcQB+AEMBdXEAfgAmAAAAAHBzcQB+AEMBdXEAfgBUAAAAAHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVqGTrUVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSky0l/pcDXcKEuqz1v935Q8lkXWQ==
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB2zgvPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFHwuE50ABVXb3JraW5nV2l0aERhdGFTb3VyY2VzcQB+AAz0u1aBdAAGbm90aWZ5c3EAfgAMssq0JnQAB3VuYXBwbHlzcQB+AAxDoJdNdAAHY3VycmllZHNxAH4ADByTke90AARuYW1lc3EAfgAMIIYldXQABHdhaXRzcQB+AAzg48xGdAAOY29weSRkZWZhdWx0JDJzcQB+AAy1t4MndAANJGFzSW5zdGFuY2VPZnNxAH4ADL3iY9F0AAxwcm9kdWN0QXJpdHlzcQB+AAzCG86mdAAGZXF1YWxzc3EAfgAMua8htXQADGFzSW5zdGFuY2VPZnNxAH4ADJCb77R0AAxzeW5jaHJvbml6ZWRzcQB+AAxJ9cGpdAAXcnVuUGFycXVldFNjaGVtYU1lcmdpbmdzcQB+AAxY9mA5dAANJGlzSW5zdGFuY2VPZnNxAH4ADIIgclF0AAZ0dXBsZWRzcQB+AAxEQ0BXdAAIY2FuRXF1YWxzcQB+AAw/hqp1dAAEbWFpbnNxAH4ADLqGlaJ0AA1wcm9kdWN0UHJlZml4c3EAfgAM21Jf6XQAA2FnZXNxAH4ADE8CdPJ0AAlub3RpZnlBbGxzcQB+AAx42ILvdAALcmVhZFJlc29sdmVzcQB+AAzy35rudAAMaXNJbnN0YW5jZU9mc3EAfgAMpdDLmnQAEnJ1bkJhc2ljRGF0YVNvdXJjZXNxAH4ADMIqPc50AA5ydW5Kc29uRGF0YVNldHNxAH4ADNRmMu90AAY8aW5pdD5zcQB+AAxNraAhdAAGUGVyc29uc3EAfgAMf/u/a3QABWFwcGx5c3EAfgAMeMzE1XQAAj09c3EAfgAMoYyGF3QABWNsb25lc3EAfgAM62eWf3QABGNvcHlzcQB+AAwD7JsKdAAIdG9TdHJpbmdzcQB+AAwoTCgqdAAPcnVuQmFzaWNQYXJxdWV0c3EAfgAMyp3Nf3QAAiE9c3EAfgAMS1DA73QACGdldENsYXNzc3EAfgAMAegvRHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMilmBDHQAAm5lc3EAfgAMxaPqIXQADnJ1bkpkYmNEYXRhU2V0c3EAfgAMOPcKW3QAAmVxc3EAfgAMEAEhm3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEV38J50AAIjI3NxAH4ADJuTw8B0AAhmaW5hbGl6ZXNxAH4ADN30JBp0AA5wcm9kdWN0RWxlbWVudHNxAH4ADEpXjkp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACpjb20uc3VkaGlyLnNwYXJrLnNxbC5Xb3JraW5nV2l0aERhdGFTb3VyY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG1MAAlpbmhlcml0ZWRxAH4AbUwAB3BhcmVudHNxAH4AbXhxAH4AjHNxAH4AhQF1cQB+AGgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AG5xAH4Ad3VxAH4AeAAAAABzcQB+AHoAcQB+AC91cQB+AH0AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ai3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AItzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKd1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCUeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCAdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCLc3EAfgCadAAFQXJyYXlxAH4AoHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCadAAGU3RyaW5nc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnQABGphdmFzcQB+AKZ0AARsYW5ncQB+AKtwc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AvwAAAAJzcQB+AJp0AAZPYmplY3RxAH4Aw3NxAH4AmnQAA0FueXEAfgCgcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBjb20uc3VkaGlyLnNwYXJrc3EAfgDUdAAKY29tLnN1ZGhpcnNxAH4A1HQAFGNvbS5zdWRoaXIuc3Bhcmsuc3Fsc3EAfgDUdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFajba9+nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEMvVXNlcnMvc3VkaGlyL1JFU1RSSUNURUQvZWNsaXBzZVNjYWxhV1MvU3BhcmtTcWwvYnVpbGQvY2xhc3Nlcy9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZtxiGpoVcqaEVSnzGjIq8M3t3vY=
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDJgUUYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMY6z8h0AAZub3RpZnlzcQB+AAwjKXsJdAAHdW5hcHBseXNxAH4ADAqVGRZ0AAdjdXJyaWVkc3EAfgAMaL64n3QABG5hbWVzcQB+AAwD7LP1dAAEd2FpdHNxAH4ADKh3zIR0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJLxT4B0AA0kYXNJbnN0YW5jZU9mc3EAfgAMamI4y3QADHByb2R1Y3RBcml0eXNxAH4ADMJvmVN0AAZlcXVhbHNzcQB+AAymOJ/HdAAMYXNJbnN0YW5jZU9mc3EAfgAMP73vG3QADHN5bmNocm9uaXplZHNxAH4ADAW+NWB0ABFydW5CYXNpY0RhdGFGcmFtZXNxAH4ADPQPomt0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5CJlm3QADnJ1bkluZmVyU2NoZW1hc3EAfgAMTRUepnQABlBlb3BsZXNxAH4ADHQwNTl0AAZ0dXBsZWRzcQB+AAwTjxNCdAAQV29ya2luZ1dpdGhGaWxlc3NxAH4ADOcSkq50AAhjYW5FcXVhbHNxAH4ADJkId9J0ABJydW5EYXRhU2V0Q3JlYXRpb25zcQB+AAxKlVbjdAAEbWFpbnNxAH4ADEaEAhB0AA1wcm9kdWN0UHJlZml4c3EAfgAMcfcNQ3QAA2FnZXNxAH4ADJzhhpt0AAlub3RpZnlBbGxzcQB+AAxVzGwhdAALcmVhZFJlc29sdmVzcQB+AAwbnT36dAAMaXNJbnN0YW5jZU9mc3EAfgAMpANjcXQABjxpbml0PnNxAH4ADO1ZNhh0AAVhcHBseXNxAH4ADK8XjkR0AAI9PXNxAH4ADMEpEKp0AAVjbG9uZXNxAH4ADNvQwnJ0AARjb3B5c3EAfgAMUMeN/nQACHRvU3RyaW5nc3EAfgAM8a+nRXQAFHJ1blByb2dyYW1taW5nU2NoZW1hc3EAfgAM9Mpg6HQAAiE9c3EAfgAM0XonpHQACGdldENsYXNzc3EAfgAMW4uc/nQADmNvcHkkZGVmYXVsdCQxc3EAfgAMrNiWiXQAAm5lc3EAfgAMcD0teHQAAmVxc3EAfgAMQMWGHnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADCbwQ9J0AAIjI3NxAH4ADFBb/Ct0AAhmaW5hbGl6ZXNxAH4ADIpeNNR0AA5wcm9kdWN0RWxlbWVudHNxAH4ADIdES/t0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACVjb20uc3VkaGlyLnNwYXJrLnNxbC5Xb3JraW5nV2l0aEZpbGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCDAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBrTAAJaW5oZXJpdGVkcQB+AGtMAAdwYXJlbnRzcQB+AGt4cQB+AIpzcQB+AIMBdXEAfgBmAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBscQB+AHV1cQB+AHYAAAAAc3EAfgB4AHEAfgA1dXEAfgB7AAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIl0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCJc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCldXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AknhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AfnQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AmVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AiXNxAH4AmHQABUFycmF5cQB+AJ51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AmHQABlN0cmluZ3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKR0AARqYXZhc3EAfgCkdAAEbGFuZ3EAfgCpcHNxAH4AgwF1cQB+AGYAAAAAcHNxAH4AgwF1cQB+AL0AAAACc3EAfgCYdAAGT2JqZWN0cQB+AMFzcQB+AJh0AANBbnlxAH4AnnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAQY29tLnN1ZGhpci5zcGFya3NxAH4A0nQACmNvbS5zdWRoaXJzcQB+ANJ0ABRjb20uc3VkaGlyLnNwYXJrLnNxbHNxAH4A0nQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoZOtRV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL1VzZXJzL3N1ZGhpci9SRVNUUklDVEVEL2VjbGlwc2VTY2FsYVdTL1NwYXJrU3FsL2J1aWxkL2NsYXNzZXMvbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFTh3ZhWcmtdedijlHapRpJFzlX5
+external apis:
+0 items
+source infos:
+3 items
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/Library.java -> 
+AAAAAAAAAAA=
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithDataSource.scala -> 
+AAAAAAAAAAA=
+/Users/sudhir/RESTRICTED/eclipseScalaWS/SparkSql/src/main/scala/com/sudhir/spark/sql/WorkingWithFiles.scala -> 
+AAAAAAAAAAA=
+compilations:
+50 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIFF011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIHM9R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIJWax1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIKgxB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIMzqN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIOOxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIPUVl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIR/4d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIUK/l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIXtIx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIYpAp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIZI3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIbzT51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoIcxyN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoX12YR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoX4J311cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoX5KDJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoX7r9l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYBZZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYCcZh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYFHQx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYGoeB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYHSKZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYKZWB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYK+XN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYMLj91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYRrRh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYS7HF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYT1M91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYUuv11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYVc3B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYZMet1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoYli8V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoZOtRV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoZzIR91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoZ1UcV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoZ73dd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoiXk8l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoiZbrR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoimykl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWoipP6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2QM4N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2SGvZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2TuoV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2Zc/51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2imIV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2j04t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo2u5lB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo21J4V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWo22vfp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9zdWRoaXIvUkVTVFJJQ1RFRC9lY2xpcHNlU2NhbGFXUy9TcGFya1NxbC9idWlsZC9jbGFzc2VzL21haW50AAEv
